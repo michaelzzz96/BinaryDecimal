@@ -1,2 +1,2 @@
 # BinaryDecimal
-A program  written in C that takes in a Binary Number from a User and converts it in Decimal and Hexadecimal. 
+A program  written in C that is based on binary converstion based on a concept in Discrete Mathematics  
